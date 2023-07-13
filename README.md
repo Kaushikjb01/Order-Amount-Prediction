@@ -11,11 +11,12 @@ This is a project I made with my friends to predict the order amount of customer
 
 ## Tools/Concepts Used
 1. Python
-2. Machine Learning
-3. SQL
-4. Java
-5. React
-6. Flask
+2. HTML CSS
+3. Machine Learning
+4. SQL
+5. Java
+6. React
+7. Flask
 
 ## Below are a few pictures to give a quick overview
 Home Page:
