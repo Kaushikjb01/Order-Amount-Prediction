@@ -19,10 +19,10 @@ This is a project I made with my friends to predict the order amount of customer
 
 ## Below are a few pictures to give a quick overview
 Home Page:
-![Home Page](https://github.com/Kaushikjb01/Order-Amount-Prediction/assets/101623662/4b4a7360-faed-4c15-ae79-766960370456)
+![Home Page](https://github.com/Kaushikjb01/Order-Amount-Prediction/assets/101623662/565d02ff-d6b0-440e-859f-7219ddf1b4fd)
 
 Analytics View:
-![Analytics View](https://github.com/Kaushikjb01/Order-Amount-Prediction/assets/101623662/4823f1cf-cae3-4d78-836a-cacede214d7c)
+![Analytics View](https://github.com/Kaushikjb01/Order-Amount-Prediction/assets/101623662/2390ff14-e329-404e-b1c0-fac09a1edcfe)
 
 Add Data:
-![Add Data](https://github.com/Kaushikjb01/Order-Amount-Prediction/assets/101623662/e378016e-6aae-4778-a529-185989e8176d)
+![Add Data](https://github.com/Kaushikjb01/Order-Amount-Prediction/assets/101623662/995f05fd-01e0-4bbf-a616-df023d5b88e9)
